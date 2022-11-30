@@ -1,4 +1,4 @@
-module github.com/b3lb/test_utils
+module github.com/bigblueswarm/test_utils
 
 go 1.19
 
